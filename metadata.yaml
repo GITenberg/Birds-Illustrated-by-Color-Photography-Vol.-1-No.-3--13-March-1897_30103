@@ -1,0 +1,31 @@
+_repo: Birds-Illustrated-by-Color-Photography-Vol.-1-No.-3--13-March-1897_30103
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 30103-h/images/img_cover.jpg
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_bookshelf:
+- Animal
+- Animals-Wild-Birds
+- Birds, Illustrated by Color Photography
+gutenberg_issued: '2009-09-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30103'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Natural history -- Periodicals'
+- !lcsh 'Zoological illustration -- Periodicals'
+- !lcsh 'Birds -- Periodicals'
+- !lcc 'QL'
+title: "Birds, Illustrated by Color Photography, Vol. 1, No. 3\r\nMarch 1897"
+url: http://www.gutenberg.org/ebooks/30103
